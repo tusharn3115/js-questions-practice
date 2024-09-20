@@ -6,7 +6,7 @@
 
 const pi = 3.14     // const and let was introduced in ES6
 let yName = "Your Name"
-var language = "Javascript"   // used in old version of JS
+var age = 32   // used in old version of JS
 
 console.log(pi);
 console.log(yName);
