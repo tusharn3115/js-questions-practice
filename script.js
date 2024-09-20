@@ -79,3 +79,11 @@
 // 7. Objects
 // Create an object representing a book with properties like title, author, and year.
 // How would you access the value of author from the object?
+
+
+const book = {
+    title: "The Lost Lake",
+    author: "Adam",
+    year: 1978,
+}
+console.log(`Author: ${book.author}`);
