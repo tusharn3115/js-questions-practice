@@ -55,3 +55,14 @@ while(i <= 10){
     i++;
 }
 console.log("Stopped");
+
+
+
+// 5. Functions
+// Write a function called greet that takes a name as an argument and prints "Hello, [name]!".
+
+function greet(greeting){
+    console.log(greeting);
+}
+
+greet("Good Evening");
