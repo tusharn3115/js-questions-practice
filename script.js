@@ -61,8 +61,8 @@ console.log("Stopped");
 // 5. Functions
 // Write a function called greet that takes a name as an argument and prints "Hello, [name]!".
 
-function greet(greeting){
-    console.log(greeting);
+function greet(name){
+    console.log(`Hello ${name}`);
 }
 
-greet("Good Evening");
+greet("John");
