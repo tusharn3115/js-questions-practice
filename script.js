@@ -48,21 +48,34 @@
 // }
 // console.log("Stopped");
 
-console.log("Counting 1 to 10 using while loop");
-let i = 1
-while(i <= 10){
-    console.log(i);
-    i++;
-}
-console.log("Stopped");
+// console.log("Counting 1 to 10 using while loop");
+// let i = 1
+// while(i <= 10){
+//     console.log(i);
+//     i++;
+// }
+// console.log("Stopped");
 
 
 
 // 5. Functions
 // Write a function called greet that takes a name as an argument and prints "Hello, [name]!".
 
-function greet(name){
-    console.log(`Hello ${name}`);
-}
+// function declaration
+// function greet(name){
+//     console.log(`Hello ${name}`);
+// }
+// greet("John");
 
-greet("John");
+// function expression
+// let greeting = function greet(name){
+//     console.log(`Hello ${name}`);
+// }
+// greeting("John");
+
+
+
+
+// 7. Objects
+// Create an object representing a book with properties like title, author, and year.
+// How would you access the value of author from the object?
