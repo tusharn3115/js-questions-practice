@@ -94,7 +94,17 @@
 // 8. Events (for Browser-based JS)
 // How do you handle a button click event in JavaScript? Write a simple example.
 
-let btn = document.getElementById("btn");
-btn.addEventListener("click", () => {
-    console.log("button clicked");
-})
+// let btn = document.getElementById("btn");
+// btn.addEventListener("click", () => {
+//     console.log("button clicked");
+// })
+
+
+
+
+// 9. DOM Manipulation
+// How do you change the text of a <p> tag using JavaScript?
+
+let para = document.getElementById("#p1");
+// console.log(para);
+para.innerText = "This is Paragraph 1";
