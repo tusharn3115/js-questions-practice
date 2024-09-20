@@ -10,4 +10,4 @@ var age = 32   // used in old version of JS
 
 console.log(pi);
 console.log(yName);
-console.log(language);
+console.log(age);
