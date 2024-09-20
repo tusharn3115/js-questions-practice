@@ -86,4 +86,10 @@ const book = {
     author: "Adam",
     year: 1978,
 }
-console.log(`Author: ${book.author}`);
+// console.log(book)
+// console.log(`Author: ${book.author}`);
+
+
+
+// 8. Events (for Browser-based JS)
+// How do you handle a button click event in JavaScript? Write a simple example.
