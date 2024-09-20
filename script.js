@@ -94,3 +94,7 @@
 // 8. Events (for Browser-based JS)
 // How do you handle a button click event in JavaScript? Write a simple example.
 
+let btn = document.getElementById("btn");
+btn.addEventListener("click", () => {
+    console.log("button clicked");
+})
