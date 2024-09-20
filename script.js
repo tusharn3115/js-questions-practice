@@ -27,3 +27,11 @@ console.log(`a + b = ${add}`);
 
 // 3. Conditional Statements
 // Write a program that checks if a person is adult or a minor using there age.
+
+let your_age = 20;
+
+if (your_age >= 18) {
+    console.log("You're an adult");
+} else {
+    console.log("You're a minor");
+}
